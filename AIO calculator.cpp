@@ -131,7 +131,7 @@ int main()
     do
     {
         cout << "Welcone to NemoNet Calculator\n\n1.Enter\n0.Quit\n\n";
-        cout << " contact NemoNet on: \n\n+234 815 6622 466\n";
+        cout << " contact NemoNet on: \n\nGitHub\n";
         cin >> choice;
         
         switch(choice)
